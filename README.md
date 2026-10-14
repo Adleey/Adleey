@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td><b>🗄️ Bancos de dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,oracledb&perline=10" alt="Bancos de dados" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,h2,oracledatabaseb&perline=10" alt="Bancos de dados" /></td>
   </tr>
   <tr>
     <td><b>☁️ DevOps e Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,git,github,linux&perline=10" alt="DevOps e Cloud" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,linux&perline=10" alt="DevOps e Cloud" /></td>
   </tr>
   <tr>
     <td><b>🧰 Ferramentas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=npm,postman,eclipse,vscode&perline=10" alt="Ferramentas" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,postman,eclipse,git,github&perline=10" alt="Ferramentas" /></td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@
 
 ## 🧩 Eu estou estudando...
 
-<img src="https://skillicons.dev/icons?i=java,angular,jest&perline=10" alt="Estudando" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws&perline=10" alt="Estudando" />
 
 <br>
 
