@@ -51,7 +51,7 @@
     <td>
       <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=10" alt="PostgreSQL e MySQL" />
       <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-      <img src="https://img.shields.io/badge/H2%20Database-1021FF?style=for-the-badge" alt="H2 Database" />
+     
     </td>
   </tr>
   <tr>
