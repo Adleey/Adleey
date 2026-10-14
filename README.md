@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><b>🗄️ Bancos de dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,h2,oracledatabaseb&perline=10" alt="Bancos de dados" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&perline=10" alt="Bancos de dados" /></td>
   </tr>
   <tr>
     <td><b>☁️ DevOps e Cloud</b></td>
