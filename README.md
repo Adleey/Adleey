@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adley&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=E%20a%C3%AD%2C%20seja%20bem-vindo!%20%F0%9F%91%8B&descSize=20&descAlignY=60" alt="Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CD6&center=true&vCenter=true&width=520&lines=Desenvolvedor+Back-End;Desenvolvedor+Full+Stack;Linux+%7C+DevOps+%7C+CI%2FCD" alt="Digitando..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CD6&center=true&vCenter=true&width=520&lines=Desenvolvedor+Back-End;Java+%7C+Spring+Boot+%7C+Maven;Linux+%7C+DevOps+%7C+CI%2FCD;Angular+%7C+Javascript+%7C+TS" alt="Digitando..." />
 
 </div>
 
@@ -52,7 +52,6 @@
       <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=10" alt="PostgreSQL e MySQL" />
       <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
      
-    </td>
   </tr>
   <tr>
     <td><b>☁️ DevOps e Cloud</b></td>
