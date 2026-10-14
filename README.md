@@ -40,23 +40,23 @@
 <table>
   <tr>
     <td><b>⚙️ Back-End</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,python&perline=10" alt="Back-End" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,php&perline=10" alt="Back-End" /></td>
   </tr>
   <tr>
     <td><b>🎨 Front-End</b></td>
-    <td><img src="https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap,wordpress&perline=10" alt="Front-End" /></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstap&perline=10" alt="Front-End" /></td>
   </tr>
   <tr>
     <td><b>🗄️ Bancos de dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=10" alt="Bancos de dados" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&perline=10" alt="Bancos de dados" /></td>
   </tr>
   <tr>
     <td><b>☁️ DevOps e Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,gcp,git,github,linux&perline=10" alt="DevOps e Cloud" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,git,github,linux&perline=10" alt="DevOps e Cloud" /></td>
   </tr>
   <tr>
     <td><b>🧰 Ferramentas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,npm,postman,eclipse&perline=10" alt="Ferramentas" /></td>
+    <td><img src="https://skillicons.dev/icons?i=npm,postman,eclipse,vscode&perline=10" alt="Ferramentas" /></td>
   </tr>
 </table>
 
