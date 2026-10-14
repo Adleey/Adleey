@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td><b>⚙️ Back-End</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,php&perline=10" alt="Back-End" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,php&perline=10" alt="Back-End" /></td>
   </tr>
   <tr>
     <td><b>🎨 Front-End</b></td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><b>🗄️ Bancos de dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&perline=10" alt="Bancos de dados" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,oracledb&perline=10" alt="Bancos de dados" /></td>
   </tr>
   <tr>
     <td><b>☁️ DevOps e Cloud</b></td>
